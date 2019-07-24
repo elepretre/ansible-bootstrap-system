@@ -22,7 +22,6 @@ bootstrap_syslog_target_http_path: /gelf # GELF over HTTP
 bootstrap_syslog_target_http_username:
 bootstrap_syslog_target_http_password:
 bootstrap_syslog_target_http_headers: {}
-bootstrap_syslog_filter_pair:
 
 bootstrap_syslog_additional_tags: {}
 
